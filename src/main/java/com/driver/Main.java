@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
         A objA = new A();
         System.out.println(objA.meth());
-        B bobj=new B();
-       System.out.println(bobj.meth());
+
     }
 }
